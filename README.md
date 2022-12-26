@@ -1,5 +1,7 @@
 # EasyRead
-###### 2017
+**Year: 2017  
+Made with: Unity & C# language**
+
 Self made app for making reading more easy and easier to focus. Made with Unity & C# language.
 Project files are lost, but I have build for download at: 
 https://github.com/ramitammela/EasyRead/releases/tag/build
